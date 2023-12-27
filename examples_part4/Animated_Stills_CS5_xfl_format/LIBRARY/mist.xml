@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mist" itemID="4b70e3f3-00000535" sourceLibraryItemHRef="Symbol 5" lastModified="1265689587">
+  <timeline>
+    <DOMTimeline name="mist">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!8160 273S2[6760 320 4780 320!4780 320[2800 320 1400 273!1400 273[0 226 0 160!0 160[0 94 1400 47!1400 47[2800 0 4780 0!4780 0[6760 0 8160 47!8160 47[9560 94 9560 160!9560 160[9560 226 8160 273"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

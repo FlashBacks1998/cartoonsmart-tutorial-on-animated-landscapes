@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="light flare" itemID="4b70715a-0000030d" sourceLibraryItemHRef="Symbol 5" lastModified="1265660250">
+  <timeline>
+    <DOMTimeline name="light flare">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1920 930S2[1920 1315 1638 1587!1638 1587[1357 1860 960 1860!960 1860[562 1860 281 1587!281 1587[0 1315 0 930!0 930[0 545 281 272!281 272[562 0 960 0!960 0[1357 0 1638 272!1638 272[1920 545 1920 930"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="dsjkhflsd" itemID="4b64a0a2-000002d4" sourceFlashFilepath="../../../../static_to_ecstatic/animated_still.fla" sourceLibraryItemHRef="dsjkhflsd" sourceLastModified="1264885952" lastModified="1264885952">
+  <timeline>
+    <DOMTimeline name="dsjkhflsd">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!58 85S2[0 71 0 50!0 50[0 29 58 14!58 14[117 0 200 0!200 0[283 0 341 14!341 14[400 29 400 50!400 50[400 71 341 85!341 85[283 100 200 100!200 100[117 100 58 85"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

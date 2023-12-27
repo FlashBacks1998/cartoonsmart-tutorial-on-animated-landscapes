@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 2" itemID="4b6a7968-00001462" sourceLibraryItemHRef="Symbol 2" lastModified="1265269107" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 2" currentFrame="20">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="20" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="rod" name="" selected="true">
+                  <matrix>
+                    <Matrix a="0.613296508789062" b="-0.511566162109375" c="0.511566162109375" d="0.613296508789062" ty="3.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3" y="47.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="22" blurY="21" color="#66CCFF" knockout="true" quality="3" strength="2.4"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="20" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="rod" name="" selected="true">
+                  <matrix>
+                    <Matrix a="0.613296508789062" b="-0.511566162109375" c="0.511566162109375" d="0.613296508789062" ty="3.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3" y="47.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="22" blurY="21" color="#66CCFF" knockout="true" quality="3" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="rod" name="">
+                  <matrix>
+                    <Matrix a="0.613296508789062" b="-0.511566162109375" c="0.511566162109375" d="0.613296508789062" ty="3.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3" y="47.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="22" blurY="21" color="#66CCFF" knockout="true" quality="3" strength="2.4"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

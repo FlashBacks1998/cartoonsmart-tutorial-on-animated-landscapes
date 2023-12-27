@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="snowfall2" itemID="4b70696a-0000029e" sourceFlashFilepath="../snow.fla" sourceLibraryItemHRef="snowfall2" sourceLastModified="1265658420" lastModified="1265658420">
+  <timeline>
+    <DOMTimeline name="snowfall2" currentFrame="60">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="60" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="snowfall_stack" name="">
+                  <transformationPoint>
+                    <Point x="163.95" y="319.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="snowfall_stack" name="">
+                  <matrix>
+                    <Matrix ty="159.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.95" y="319.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

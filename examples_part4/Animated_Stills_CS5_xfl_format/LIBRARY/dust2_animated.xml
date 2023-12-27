@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="dust2_animated" itemID="4b710270-0000062e" sourceLibraryItemHRef="Symbol 5" lastModified="1265697501" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="dust2_animated" currentFrame="96">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="175" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" motionTweenSync="true" keyMode="10243">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dust2" name="">
+                  <transformationPoint>
+                    <Point x="6.5" y="6.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

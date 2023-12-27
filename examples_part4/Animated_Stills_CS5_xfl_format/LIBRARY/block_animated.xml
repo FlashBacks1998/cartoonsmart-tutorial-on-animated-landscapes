@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="block_animated" itemID="4b6a5351-00000f56" sourceLibraryItemHRef="Symbol 2" lastModified="1265268889" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="block_animated">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="87" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-43">
+              <elements>
+                <DOMSymbolInstance libraryItemName="block" name="" selected="true">
+                  <transformationPoint>
+                    <Point x="26.55" y="22.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="87" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="block" name="">
+                  <matrix>
+                    <Matrix tx="41.75" ty="-46.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.55" y="22.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="96" duration="44" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="block" name="">
+                  <matrix>
+                    <Matrix tx="41.75" ty="-46.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.55" y="22.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="140" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="block" name="">
+                  <transformationPoint>
+                    <Point x="26.55" y="22.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

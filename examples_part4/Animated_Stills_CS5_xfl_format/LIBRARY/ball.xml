@@ -1,0 +1,86 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ball" itemID="4b6118ff-0000009d" sourceFlashFilepath="../../../../static_to_ecstatic/animated_still.fla" sourceLibraryItemHRef="ball" sourceLastModified="1264676595" lastModified="1265269787">
+  <timeline>
+    <DOMTimeline name="ball">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!19181 -52206[19181 -52490 19383 -52692!19383 -52692[19584 -52894 19869 -52894!19869 -52894[20154 -52894 20355 -52692!20355 -52692[20557 -52490 20557 -52206!20557 -52206[20557 -51921 20355 -51719!20355 -51719[20154 -51518 19869 -51518
+!19869 -51518[19584 -51518 19383 -51719!19383 -51719[19181 -51921 19181 -52206"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!7207 -23784[7409 -23582 7409 -23298!7409 -23298[7409 -23013 7207 -22811!7207 -22811[7006 -22610 6721 -22610!6721 -22610[6436 -22610 6235 -22811!6235 -22811[6033 -23013 6033 -23298!6033 -23298[6033 -23582 6235 -23784!6235 -23784[6436
+ -23986 6721 -23986!6721 -23986[7006 -23986 7207 -23784"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!3223 6235[3475 6487 3475 6843!3475 6843[3475 7199 3223 7451!3223 7451[2971 7703 2615 7703!2615 7703[2259 7703 2007 7451!2007 7451[1755 7199 1755 6843!1755 6843[1755 6487 2007 6235!2007 6235[2259 5983 2615 5983!2615 5983[2971 5983 3223
+ 6235"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!1031 -204[1283 48 1283 404!1283 404[1283 760 1031 1012!1031 1012[779 1264 423 1264!423 1264[67 1264 -185 1012!-185 1012[-437 760 -437 404!-437 404[-437 48 -185 -204!-185 -204[67 -456 423 -456!423 -456[779 -456 1031 -204"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

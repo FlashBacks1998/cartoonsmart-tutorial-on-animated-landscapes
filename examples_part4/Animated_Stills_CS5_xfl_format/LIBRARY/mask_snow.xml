@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mask_snow" itemID="4b706664-00000149" sourceFlashFilepath="../snow.fla" sourceLibraryItemHRef="mask_snow" sourceLastModified="1265657444" lastModified="1265657444">
+  <timeline>
+    <DOMTimeline name="mask_snow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#33CCFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!5260 2630S2[5260 3719 4489 4489!4489 4489[3719 5260 2630 5260!2630 5260[1541 5260 770 4489!770 4489[0 3719 0 2630!0 2630[0 1541 770 770!770 770[1541 0 2630 0!2630 0[3719 0 4489 770!4489 770[5260 1541 5260 2630"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

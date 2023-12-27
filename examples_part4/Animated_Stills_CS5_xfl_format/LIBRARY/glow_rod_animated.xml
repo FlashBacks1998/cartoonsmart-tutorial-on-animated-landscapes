@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="glow_rod_animated" itemID="4b6a7abb-00001495" sourceLibraryItemHRef="Symbol 3" lastModified="1265269448" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="glow_rod_animated" currentFrame="26">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="26" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="glow rod" name="" selected="true">
+                  <transformationPoint>
+                    <Point x="29.2" y="34.75"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="22" blurY="28" color="#3399FF" knockout="true" quality="3" strength="5.63"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="29" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="glow rod" name="">
+                  <transformationPoint>
+                    <Point x="29.2" y="34.75"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="22" blurY="28" color="#3399FF" knockout="true" quality="3" strength="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="glow rod" name="">
+                  <transformationPoint>
+                    <Point x="29.2" y="34.75"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="22" blurY="28" color="#3399FF" knockout="true" quality="3" strength="5.63"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

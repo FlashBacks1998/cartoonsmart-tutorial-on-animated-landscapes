@@ -1,0 +1,92 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mist and shadow" itemID="4b70e457-0000053a" sourceLibraryItemHRef="Symbol 5" lastModified="1265689739" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="mist and shadow" currentFrame="105">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mist" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="219" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mist" name="" selected="true" blendMode="subtract">
+                  <matrix>
+                    <Matrix d="0.628128051757812" tx="33" ty="42.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="239" y="8.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="190" blurY="9"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="219" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mist" name="" blendMode="subtract">
+                  <matrix>
+                    <Matrix d="0.628128051757812" tx="-1410.9" ty="42.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="239" y="8.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="190" blurY="9"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.0703125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mist" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="219" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mist" name="" selected="true" blendMode="add">
+                  <transformationPoint>
+                    <Point x="239" y="8"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="190" blurY="14"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.37109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="219" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mist" name="" blendMode="add">
+                  <matrix>
+                    <Matrix tx="-1443.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="239" y="8"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="190" blurY="14"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.12109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

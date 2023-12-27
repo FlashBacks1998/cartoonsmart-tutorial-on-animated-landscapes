@@ -1,0 +1,599 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="rotating lights" itemID="4b6ba633-000018ca" sourceLibraryItemHRef="Symbol 5" lastModified="1265347389" lastUniqueIdentifier="16">
+  <timeline>
+    <DOMTimeline name="rotating lights" currentFrame="249">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="102" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="random_lights9" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="18" duration="14" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights9" name="">
+                  <matrix>
+                    <Matrix tx="13" ty="18.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.25" y="13.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" duration="103" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights9" name="" selected="true">
+                  <matrix>
+                    <Matrix tx="13" ty="18.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.25" y="13.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#66CCFF" quality="3" strength="1.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="135" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights9" name="">
+                  <matrix>
+                    <Matrix tx="13" ty="18.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.25" y="13.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="random_lights8" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="137" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="137" duration="14" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights8" name="">
+                  <matrix>
+                    <Matrix tx="11.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.7" y="18.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="151" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights8" name="">
+                  <matrix>
+                    <Matrix tx="11.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.7" y="18.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#66CCFF" quality="3" strength="1.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="166" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights8" name="" selected="true">
+                  <matrix>
+                    <Matrix tx="11.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.7" y="18.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="167" duration="32" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="199" duration="14" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights8" name="">
+                  <matrix>
+                    <Matrix tx="11.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.7" y="18.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="213" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights8" name="">
+                  <matrix>
+                    <Matrix tx="11.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.7" y="18.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#66CCFF" quality="3" strength="1.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="228" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights8" name="" selected="true">
+                  <matrix>
+                    <Matrix tx="11.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.7" y="18.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="random_lights7" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="42" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" duration="14" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights7" name="">
+                  <matrix>
+                    <Matrix tx="62.25" ty="39.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.3" y="13.7"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights7" name="">
+                  <matrix>
+                    <Matrix tx="62.25" ty="39.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.3" y="13.7"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#66CCFF" quality="3" strength="1.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights7" name="" selected="true">
+                  <matrix>
+                    <Matrix tx="62.25" ty="39.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.3" y="13.7"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="random_lights6" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="25" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights6" name="">
+                  <matrix>
+                    <Matrix tx="45" ty="40.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="21.2"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="85" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights6" name="">
+                  <matrix>
+                    <Matrix tx="45" ty="40.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="21.2"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#66CCFF" quality="3" strength="1.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" duration="31" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights6" name="">
+                  <matrix>
+                    <Matrix tx="45" ty="40.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="21.2"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#66CCFF" quality="3" strength="1.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="141" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights6" name="">
+                  <matrix>
+                    <Matrix tx="45" ty="40.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="21.2"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="142" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="random_lights4" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="72" duration="14" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights4" name="">
+                  <matrix>
+                    <Matrix ty="95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.75" y="3.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="86" duration="78" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights4" name="">
+                  <matrix>
+                    <Matrix ty="95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.75" y="3.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#66CCFF" quality="3" strength="1.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="164" duration="14" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights4" name="">
+                  <matrix>
+                    <Matrix ty="95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.75" y="3.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="8.40000915527344" blurY="8.40000915527344" color="#70BFEF" quality="2" strength="1.23"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.93359375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="178" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights4" name="" selected="true">
+                  <matrix>
+                    <Matrix ty="95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.75" y="3.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="random_lights3" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="236" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="236" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights3" name="">
+                  <matrix>
+                    <Matrix tx="5.4" ty="112"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="11"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="251" duration="23" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights3" name="">
+                  <matrix>
+                    <Matrix tx="5.4" ty="112"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="11"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#66CCFF" quality="3" strength="1.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="274" duration="8" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights3" name="">
+                  <matrix>
+                    <Matrix tx="5.4" ty="112"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="11"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#66CCFF" quality="3" strength="1.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="282" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights3" name="">
+                  <matrix>
+                    <Matrix tx="5.4" ty="112"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="11"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="random_lights2" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="200" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="200" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights2" name="">
+                  <matrix>
+                    <Matrix tx="65.35" ty="105.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.25" y="10.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="215" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights2" name="">
+                  <matrix>
+                    <Matrix tx="65.35" ty="105.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.25" y="10.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#66CCFF" quality="3" strength="1.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="230" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights2" name="" selected="true">
+                  <matrix>
+                    <Matrix tx="65.35" ty="105.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.25" y="10.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="random_lights1" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="38" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="38" duration="28" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights1" name="">
+                  <matrix>
+                    <Matrix tx="44.05" ty="136.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.5" y="8.8"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" duration="175" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights1" name="">
+                  <matrix>
+                    <Matrix tx="44.05" ty="136.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.5" y="8.8"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#66CCFF" quality="3" strength="1.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="241" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights1" name="">
+                  <matrix>
+                    <Matrix tx="44.05" ty="136.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.5" y="8.8"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#66CCFF" quality="3" strength="1.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="256" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="random_lights1" name="" selected="true">
+                  <matrix>
+                    <Matrix tx="44.05" ty="136.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.5" y="8.8"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="0" blurY="0" strength="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

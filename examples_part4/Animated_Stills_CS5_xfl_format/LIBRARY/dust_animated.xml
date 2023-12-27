@@ -1,0 +1,77 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="dust_animated" itemID="4b70fd89-00000542" sourceLibraryItemHRef="Symbol 5" lastModified="1265696518" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="dust_animated" currentFrame="130">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="173" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[var myNum:int ;myNum = Math.random( ) * 130;gotoAndPlay (myNum );]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="173" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay(2);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Guide: Layer 2" color="#FF800A" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="174" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#7A8182"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-1831 4179[#FFF3AC.1C #6AB.EE 1749 -930!1749 -930[#14A6.F7 #FFF2FD.95 4893 -6915!4893 -6915[#1016.5A #FFCB3C.CB 8873 -15068"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" parentLayerIndex="1" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="130" tweenType="motion" motionTweenOrientToPath="true" motionTweenSync="true" motionTweenSnap="true" keyMode="24321">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dust" name="">
+                  <matrix>
+                    <Matrix tx="-98.8" ty="201.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.5" y="6.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="130" tweenType="motion" motionTweenOrientToPath="true" motionTweenSync="true" motionTweenSnap="true" keyMode="24321">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dust" name="" selected="true">
+                  <matrix>
+                    <Matrix tx="429.55" ty="-757.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.5" y="6.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="131" duration="43" tweenType="motion" motionTweenOrientToPath="true" motionTweenSync="true" motionTweenSnap="true" keyMode="24321">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

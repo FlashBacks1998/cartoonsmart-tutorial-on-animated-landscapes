@@ -1,0 +1,384 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="lightning loop" itemID="4b708673-00000450" sourceLibraryItemHRef="Symbol 5" lastModified="1265689803" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="lightning loop" currentFrame="5">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="lightning1" name="">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188" tx="64.4" ty="42.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.15" y="37.6"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#FFFFFF" quality="3" strength="2.84"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="lightning2" name="">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188" tx="64.2" ty="43.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.35" y="47"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#FFFFFF" quality="3" strength="2.84"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="lightning3" name="">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188" tx="58.9" ty="44.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30.5" y="49.15"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#FFFFFF" quality="3" strength="2.84"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="304" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="2" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dark cloud" name="" blendMode="subtract">
+                  <matrix>
+                    <Matrix a="0.529571533203125" d="0.694122314453125" tx="23" ty="50.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.95" y="29.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="13" blurY="6"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.1015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="10" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dark cloud" name="" blendMode="subtract">
+                  <matrix>
+                    <Matrix a="0.529571533203125" d="0.694122314453125" tx="23" ty="50.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.95" y="29.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="13" blurY="6"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.1796875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dark cloud" name="" blendMode="subtract">
+                  <matrix>
+                    <Matrix a="0.529571533203125" d="0.694122314453125" tx="23" ty="50.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.95" y="29.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="13" blurY="6"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dark cloud" name="" selected="true" blendMode="subtract">
+                  <matrix>
+                    <Matrix a="0.529571533203125" d="0.694122314453125" tx="23" ty="50.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.95" y="29.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="13" blurY="6"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="11" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dark cloud" name="" blendMode="subtract">
+                  <matrix>
+                    <Matrix a="0.529571533203125" d="0.694122314453125" tx="23" ty="50.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.95" y="29.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="13" blurY="6"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.3515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" duration="239" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dark cloud" name="" blendMode="subtract">
+                  <matrix>
+                    <Matrix a="0.529571533203125" d="0.694122314453125" tx="23" ty="50.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="84.95" y="29.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="13" blurY="6"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dark cloud" name="" blendMode="subtract">
+                  <matrix>
+                    <Matrix tx="19.55" ty="16.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85" y="29.35"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="29" blurY="11"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.1015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="10" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dark cloud" name="" blendMode="subtract">
+                  <matrix>
+                    <Matrix tx="19.55" ty="16.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85" y="29.35"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="29" blurY="11"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.2890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dark cloud" name="" blendMode="subtract">
+                  <matrix>
+                    <Matrix tx="19.55" ty="16.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85" y="29.35"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="29" blurY="11"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dark cloud" name="" selected="true" blendMode="subtract">
+                  <matrix>
+                    <Matrix tx="19.55" ty="16.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85" y="29.35"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="29" blurY="11"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="11" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dark cloud" name="" blendMode="subtract">
+                  <matrix>
+                    <Matrix tx="19.55" ty="16.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85" y="29.35"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="29" blurY="11"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.3515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" duration="239" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dark cloud" name="" blendMode="subtract">
+                  <matrix>
+                    <Matrix tx="19.55" ty="16.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85" y="29.35"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="29" blurY="11"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="lightning cloud" name="" blendMode="add">
+                  <transformationPoint>
+                    <Point x="94.75" y="34.8"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="11" blurY="9" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.30859375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="10" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="lightning cloud" name="" blendMode="add">
+                  <transformationPoint>
+                    <Point x="94.75" y="34.8"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="11" blurY="9" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="lightning cloud" name="" blendMode="add">
+                  <transformationPoint>
+                    <Point x="94.75" y="34.8"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="8" blurY="7" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.01953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="43" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="56" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="lightning cloud" name="" blendMode="add">
+                  <transformationPoint>
+                    <Point x="94.75" y="34.8"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="11" blurY="9" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="11" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="lightning cloud" name="" blendMode="add">
+                  <transformationPoint>
+                    <Point x="94.75" y="34.8"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="11" blurY="9" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.3984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="lightning cloud" name="" blendMode="add">
+                  <transformationPoint>
+                    <Point x="94.75" y="34.8"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="11" blurY="9" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.08984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="238" keyMode="15872">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

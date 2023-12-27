@@ -1,0 +1,111 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="all_smoke2" itemID="4b6bb330-00000368" lastModified="1265349563">
+  <timeline>
+    <DOMTimeline name="all_smoke2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="wisp3" name="">
+                  <matrix>
+                    <Matrix a="0.0508880615234375" b="0.441253662109375" c="-0.29876708984375" d="0.0113067626953125" tx="115.9" ty="-67.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="395" y="137.1"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="9" blurY="4" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.33984375"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="wisp3" name="">
+                  <matrix>
+                    <Matrix a="0.0911712646484375" b="0.42236328125" c="-0.292495727539062" d="0.0601043701171875" tx="111.5" ty="-64.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="395.1" y="136.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="9" blurY="4" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.30859375"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="wisp3" name="">
+                  <matrix>
+                    <Matrix a="0.032379150390625" b="0.280563354492188" c="-0.274307250976562" d="0.0103607177734375" tx="114.85" ty="-31.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="394.8" y="137.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="9" blurY="4" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.33984375"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="wisp3" name="">
+                  <matrix>
+                    <Matrix a="0.01483154296875" b="0.286270141601562" c="-0.182662963867188" d="-0.0141448974609375" tx="94.65" ty="-30.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="395.4" y="136.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="9" blurY="4" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.55859375"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="wisp3" name="">
+                  <matrix>
+                    <Matrix a="0.0579681396484375" b="0.2685546875" c="-0.185958862304688" d="0.0381927490234375" tx="107.5" ty="-25.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="395" y="136.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="9" blurY="4" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.28125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="wisp3" name="" selected="true">
+                  <matrix>
+                    <Matrix a="0.0579681396484375" b="0.2685546875" c="-0.185958862304688" d="0.0381927490234375" tx="102.65" ty="-29.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="395.15" y="137.1"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="3" blurY="8" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="wisp" name="">
+                  <matrix>
+                    <Matrix a="0.0497283935546875" b="0.4200439453125" c="-0.200119018554688" d="0.023681640625" tx="167.4" ty="-229.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="603.7" y="482.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="9" blurY="4" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,71 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="snow_group" itemID="4b6aa97c-0000170e" sourceLibraryItemHRef="Symbol 5" lastModified="1265281404" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="snow_group">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="snow" name="" selected="true">
+                  <matrix>
+                    <Matrix tx="282.95" ty="56"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="6"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="10" blurY="11"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="snow" name="" selected="true">
+                  <matrix>
+                    <Matrix a="0.599990844726562" d="0.599990844726562" tx="141.35" ty="23.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="6"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="4" blurY="4" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="snow" name="" selected="true">
+                  <matrix>
+                    <Matrix a="0.599990844726562" d="0.599990844726562" tx="724.75" ty="101.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="6"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="4" blurY="4" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="snow" name="" selected="true">
+                  <matrix>
+                    <Matrix a="0.599990844726562" d="0.599990844726562" tx="130.2" ty="316.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="6"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="4" blurY="4" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="snow" name="" selected="true">
+                  <matrix>
+                    <Matrix a="0.599990844726562" d="0.599990844726562" tx="724.75" ty="356"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="6"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="4" blurY="4" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

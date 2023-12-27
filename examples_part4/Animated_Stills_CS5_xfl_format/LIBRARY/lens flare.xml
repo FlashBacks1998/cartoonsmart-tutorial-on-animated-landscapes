@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="lens flare" itemID="4b7073e9-0000039a" lastModified="1265660921">
+  <timeline>
+    <DOMTimeline name="lens flare">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1587 272[1860 545 1860 930!1860 930[1860 1315 1587 1587!1587 1587[1315 1860 930 1860!930 1860[545 1860 272 1587!272 1587[0 1315 0 930!0 930[0 545 272 272!272 272[545 0 930 0!930 0[1315 0 1587 272"/>
+                    <Edge fillStyle0="1" edges="!1439 402[1662 624 1662 938!1662 938[1662 1252 1439 1474!1439 1474[1217 1696 904 1696!904 1696[590 1696 367 1474!367 1474[146 1252 146 938!146 938[146 624 367 402!367 402[590 180 904 180!904 180[1217 180 1439 402"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

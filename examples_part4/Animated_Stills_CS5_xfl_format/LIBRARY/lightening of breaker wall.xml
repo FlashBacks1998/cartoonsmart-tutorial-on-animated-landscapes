@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="lightening of breaker wall" itemID="4b68de61-00000d53" sourceLibraryItemHRef="Symbol 1" lastModified="1265163944">
+  <timeline>
+    <DOMTimeline name="lightening of breaker wall">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.184127807617188" b="0.0952606201171875" c="-0.027923583984375" d="-0.053924560546875" tx="336.9" ty="16.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.490196078431373" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.686274509803922"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!11484 1928|11403 1928!11403 1928|11242 1701!11242 1701|11140 1711!11140 1711|11106 1616!11106 1616|11099 1497!11099 1497|10985 1541!10985 1541|10655 1145!10655 1145|10403 1149!10403 1149|9878 983!9878 983|9836 918!9836 918|9615 1112
+!9615 1112|9380 1177!9380 1177|9300 1104!9300 1104|9295 841!9295 841|9360 752!9360 752|9048 661!9048 661|8947 720!8947 720|8168 506!8168 506|7827 574!7827 574|7569 538!7569 538|7413 662!7413 662|7007 686!7007 686|6727 174!6727 174|6148
+ 45!6148 45|6170 0!6170 0|3964 713.5!3964 713.5|3964 1935!3964 1935|11484 1935!11484 1935|11484 1928"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
